@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student at <a href='https://www.univ-lorraine.fr'>Université de Lorraine</a>/<a href='https://www.loria.fr'>LORIA</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: #prof_pic.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD Student in computer science at [Université de Lorraine](https://www.univ-lorraine.fr) in the [LORIA](https://www.loria.fr), advised by [Horatiu Cirstea](https://members.loria.fr/HCirstea) and [Pierre-Etienne Moreau](https://sites.google.com/a/depinfonancy.net/pem). I am working on static analysis methods to guarantee algebraic properties on program transformations using a formalism based on term rewrite systems and pattern-matching.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My scientific interests varies from formal studies of program transformations, applications of the rewrite formalisms to static analysis techniques. I may dabble into a bit of distributed algorithms and parallel programming paradigms whenever I get the opportunity.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Personal interests includes Badminton, Scuba-diving (and eventual associated travels), hiking and a little bit of Piano practice (though my talent is pretty modest).
