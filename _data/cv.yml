@@ -13,7 +13,7 @@
   contents:
     - title: PhD in Computer Science
       institution: Université de Lorraine, Nancy, France
-      year: 2017 - present
+      year: 2022
       description:
         - Static analysis of pattern-eliminating transformations
     - title: Parisian Master of Research in Computer Science
@@ -28,9 +28,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Engineer
+      institution: Inria, Rennes, France
+      year: 2022 - present
+      description:
+        - Conception and development of a static analyser for OCaml programs based on abstract interpretation techniques
     - title: PhD Student
       institution: Université de Lorraine, Nancy, France
-      year: 2017 - present
+      year: 2017 - 2022
       description:
         - Study of static analysis methods for program transformations using a formalism based on rewriting and pattern-matching
     - title: Software Development Engineer Consultant
@@ -57,8 +62,8 @@
   contents:
     - name: Programming language skills
       value: > 
-        <p> ★★★: C++, Java, Python</p>
-        <p> ★★: Haskell, SQL, HTML/CSS, Latex</p>
+        <p> ★★★: C++, Java, OCaml, Haskell</p>
+        <p> ★★: Python, SQL, HTML/CSS, Latex</p>
         <p> ★: ML, Coq, Javascript, PHP</p>
     - name: Office software applications
       value: Word, Excel, Powerpoint
