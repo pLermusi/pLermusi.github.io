@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Pierre
 middle_name:
 last_name: Lermusiaux
-email: pierre.lermusiaux@loria.fr
+email: pierre.lermusiaux@inria.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Student at [Université de Lorraine](https://www.univ-lorraine.fr)/[Loria](https://www.loria.fr).
+  Reseach Engineer at [Inria](https://www.inria.fr) Rennes.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
