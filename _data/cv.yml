@@ -38,15 +38,15 @@
       year: 2017 - 2022
       description:
         - Study of static analysis methods for program transformations using a formalism based on rewriting and pattern-matching
-    - title: Software Development Engineer Consultant
-      institution: Adneom, Bruxelles, Belgium
-      year: 2015 - 2017
     - title: C++ Software Development Engineer
       institution: Amadeus, Antwerp, Belgium
-      year: 2015 - 2017
+      year: 2016 - 2017
       description:
         - Long term consulting assignment from Adneom
         - Software development of mid-office systems
+    - title: Software Development Engineer Consultant
+      institution: Adneom, Bruxelles, Belgium
+      year: 2015 - 2017
     - title: Research Assistant Intern
       institution: Carnegie-Mellon University, Pittsburgh, USA
       year: 2015
