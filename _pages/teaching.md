@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-### Temporary teaching at [Université de Lorraine](https://www.univ-lorraine.fr) (2017-2018)
+### Temporary teaching at [Université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine) (2017-2018)
 * Algorithmic and Programming 2 ([FST Nancy](https://fst-en.univ-lorraine.fr))
 * Object Oriented Programming 2 ([IUT Nancy Charlemagne](https://iut-charlemagne.univ-lorraine.fr))
 * Core curriculum course in Computer Science 2 ([Mines Nancy](https://mines-nancy.univ-lorraine.fr/en))
