@@ -26,7 +26,7 @@ nav_order: 4
 * Conception and Development - 1<sup>st</sup> year Master NLP/Cognitive Science
 * Functional analysis and specifications - 1<sup>st</sup> year Master NLP
 
-### Temporary teaching at [Université de Rennes](https://www.univ-rennes.fr/en) (2022-2024)
+### Temporary teaching at [Université de Rennes](https://www.univ-rennes.fr/en) (2022-2025)
 * Functional and Immutable Programming - 1<sup>st</sup> year Bachelor
 * Compilation - 3<sup>rd</sup> year Bachelor
 * Functional programming - 3<sup>rd</sup> year Bachelor
