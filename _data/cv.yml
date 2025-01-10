@@ -45,7 +45,7 @@
         - Long term consulting assignment from Adneom
         - Software development of mid-office systems
     - title: Software Development Engineer Consultant
-      institution: Adneom, Bruxelles, Belgium
+      institution: Adneom, Brussels, Belgium
       year: 2015 - 2017
     - title: Research Assistant Intern
       institution: Carnegie-Mellon University, Pittsburgh, USA
@@ -64,7 +64,7 @@
       value: > 
         <p> ★★★: C++, Java, OCaml, Haskell</p>
         <p> ★★: Python, SQL, HTML/CSS, Latex</p>
-        <p> ★: ML, Coq, Javascript, PHP</p>
+        <p> ★: Scala, ML, Coq, Javascript, PHP</p>
     - name: Office software applications
       value: Word, Excel, Powerpoint
 
