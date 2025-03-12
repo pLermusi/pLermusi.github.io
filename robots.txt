@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pLermusi.github.io/sitemap.xml
