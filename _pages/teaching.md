@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ### Temporary teaching at [Université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine) (2017-2018)
