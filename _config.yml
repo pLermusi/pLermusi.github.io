@@ -139,16 +139,13 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
-#   news:
-#     defaults:
-#       layout: post
-#     output: false
-#     permalink: /news/:path/
-#   projects:
-#     output: false
-#     permalink: /projects/:path/
-
+collections:
+  books:
+    output: false
+  news:
+    output: false
+  projects:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
