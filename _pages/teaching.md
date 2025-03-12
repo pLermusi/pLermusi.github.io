@@ -1,12 +1,32 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Temporary teaching at [Université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine) (2017-2018)
+* Algorithmic and Programming 2 ([FST Nancy](https://fst-en.univ-lorraine.fr))
+* Object Oriented Programming 2 ([IUT Nancy Charlemagne](https://iut-charlemagne.univ-lorraine.fr))
+* Core curriculum course in Computer Science 2 ([Mines Nancy](https://mines-nancy.univ-lorraine.fr/en))
 
-Organize your courses by years, topics, or universities, however you like!
+### Temporary Teaching and Research Assistant (ATER) at [Mines Nancy](https://mines-nancy.univ-lorraine.fr/en) (2020-2021)
+* [Programming and Data-structures](https://www.depinfonancy.net/teaching/1st-year-s5-s6/tcs13)
+* [Algorithms and Complexity](https://www.depinfonancy.net/teaching/1st-year-s5-s6/tcs23)
+* [Foundation of Databases](https://www.depinfonancy.net/teaching/s7/infos7ab-database-essentials)
+* Algorithmic programming 2 ([Polytech Nancy](https://polytech-nancy.univ-lorraine.fr/en))
+* Network programming 1/Distributed algorithmic ([Polytech Nancy](https://polytech-nancy.univ-lorraine.fr/en))
+
+### Temporary Teaching and Research Assistant (ATER) at [IDMC Nancy](https://idmc.univ-lorraine.fr) (2021-2022)
+* Databases - 1<sup>st</sup> year Bachelor
+* Databases - 2<sup>nd</sup> year Bachelor
+* Advanced representation of data - 2<sup>nd</sup> year Bachelor
+* Conception and Development - 1<sup>st</sup> year Master NLP/Cognitive Science
+* Functional analysis and specifications - 1<sup>st</sup> year Master NLP
+
+### Temporary teaching at [Université de Rennes](https://www.univ-rennes.fr/en) (2022-2025)
+* Functional and Immutable Programming - 1<sup>st</sup> year Bachelor
+* Compilation - 3<sup>rd</sup> year Bachelor
+* Functional programming - 3<sup>rd</sup> year Bachelor
