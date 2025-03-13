@@ -15,7 +15,7 @@ nav_order: 5
 ### Temporary Teaching and Research Assistant (ATER) at [Mines Nancy](https://mines-nancy.univ-lorraine.fr/en) (2020-2021)
 * [Programming and Data-structures](https://www.depinfonancy.net/teaching/1st-year-s5-s6/tcs13)
 * [Algorithms and Complexity](https://www.depinfonancy.net/teaching/1st-year-s5-s6/tcs23)
-* [Foundation of Databases](https://www.depinfonancy.net/teaching/s7/infos7ab-database-essentials)
+* [Foundation of Databases](https://www.depinfonancy.net/teaching-ancien/old-stuff/si244)
 * Algorithmic programming 2 ([Polytech Nancy](https://polytech-nancy.univ-lorraine.fr/en))
 * Network programming 1/Distributed algorithmic ([Polytech Nancy](https://polytech-nancy.univ-lorraine.fr/en))
 

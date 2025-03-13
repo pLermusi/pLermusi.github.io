@@ -25,6 +25,6 @@ nav_order: 3
 * Language : OCaml
 
 ### Salto Analyser for OCaml programs
-* Whole-program analyser based on abstract interpretation, as presented in the [ESOP2024 paper](https://www.doi.org/10.1007/978-3-031-57267-8_15)
+* Whole-program analyser based on abstract interpretation, as presented in the [ESOP24 paper](https://www.doi.org/10.1007/978-3-031-57267-8_15)
 * source code on [gitlab](https://gitlab.inria.fr/salto/salto-analyser)
 * Language : OCaml

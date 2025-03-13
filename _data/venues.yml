@@ -1,9 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ERCIM News":
+  url: https://ercim-news.ercim.eu/en139
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ESOP 2024":
+  url: https://etaps.org/2024/conferences/esop/
 
-"Vision":
-  color: "#009f36"
+"SYNASC 2023":
+  url: https://synasc.ro/2023/
+
+"PPDP 2021":
+  url: https://ppdp2021.github.io/
+
+"LOPSTR 2020":
+  url: https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/
+
+"PhD Thesis":
+  color: "#5AF064"
