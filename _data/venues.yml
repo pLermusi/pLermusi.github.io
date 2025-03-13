@@ -1,5 +1,6 @@
 "ERCIM News":
   url: https://ercim-news.ercim.eu/en139
+  color: "#B46428"
 
 "ESOP 2024":
   url: https://etaps.org/2024/conferences/esop/
@@ -14,4 +15,4 @@
   url: https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/
 
 "PhD Thesis":
-  color: "#50D75A"
+  color: "#4BC35A"
