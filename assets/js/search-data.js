@@ -38,11 +38,18 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/41/4965-1.html", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%70%69%65%72%72%65.%6C%65%72%6D%75%73%69%61%75%78@%69%6E%72%69%61.%66%72", "_blank");
+          window.open("mailto:%70%69%65%72%72%65.%6C%65%72%6D%75%73%69%61%75%78@%69%72%69%74.%66%72", "_blank");
         },
       },{
         id: 'social-github',
@@ -50,13 +57,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/plermusiaux", "_blank");
-        },
-      },{
-        id: 'social-gitlab',
-        title: 'GitLab',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://gitlab.com/plermusi", "_blank");
         },
       },{
         id: 'social-linkedin',
