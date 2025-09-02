@@ -7,7 +7,7 @@ first_name: Pierre
 middle_name:
 last_name: Lermusiaux
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Reseach Engineer at [Inria](https://www.inria.fr) Rennes.
+  Associate Professor at [INP Toulouse - ENSEEIHT](https://www.enseeiht.fr/en/index.html)/[IRIT](https://www.irit.fr/en/home).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

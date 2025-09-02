@@ -28,9 +28,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Associate Professor
+      institution: Toulouse INP - ENSEEIHT / IRIT, Toulouse, France
+      year: 2025 - present
     - title: Research Engineer
       institution: Inria, Rennes, France
-      year: 2022 - present
+      year: 2022 - 2025
       description:
         - Conception and development of a static analyser for OCaml programs based on abstract interpretation techniques
     - title: PhD Student
